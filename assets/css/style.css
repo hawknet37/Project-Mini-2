@@ -1,6 +1,6 @@
 /* Header */
 .header {
-    background-image: url(/Project-2/assets/images/banner-bg.png);
+    background-image: url(/assets/images/banner-bg.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -204,7 +204,7 @@
 
 /* Work Process */
 .work-process {
-    background-image: url(/Project-2/assets/images/work-process-bg.png);
+    background-image: url(/assets/images/work-process-bg.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -427,7 +427,7 @@
 
 /* Total Quantity */
 .total-quantity {
-    background-image: url(/Project-2/assets/images/fun-facts-bg.png);
+    background-image: url(/assets/images/fun-facts-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -453,7 +453,7 @@
 }
 
 .total-quantity ul li:not(:nth-child(4))::after {
-    content: url(/Project-2/assets/images/circle-dec.png);
+    content: url(/assets/images/circle-dec.png);
     position: absolute;
     padding-left: 70px;
     display: inline-block;
